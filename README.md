@@ -6,4 +6,4 @@
 
 * [Levels of Software Engineer](https://github.com/MaxMao/blog/blob/master/posts/engineer_levels.md) (10/18/2012)
 * [Rspec mock author lives in my area?](https://github.com/MaxMao/blog/blob/master/posts/rspec_mock_zip.md) (10/18/2012)
-* [Lifetime of an internal project](https://github.com/MaxMao/blog/blob/master/posts/lifetime.md) (10/18/2012)
+* [Lifetime of an internal project](https://github.com/MaxMao/blog/blob/master/posts/lifetime.md) (11/6/2012)
